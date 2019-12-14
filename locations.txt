@@ -59,19 +59,8 @@ Ahmedabad,India
 Simla,india
 Vadodara, India
 Nakuru, Kenya
-Anand,India
-Patuakhali, Bangladesh
-Ajax, Canada
-Eldoret , Kenya
-Toronto, Canada
-Burlington, Canada
-Fontainebleau, France
-Barisal, Bangladesh
-Bagerhat, Bangladesh
-Kingston, Canada
-Trichy,India
-Reading, Pennsylvania
-Mysore, India
+Kosli, India
+lala land, Hollywood
 San Antonio, Texas
 Plano, Illinois
 Ciudad de Guatemala, Guatemala
